@@ -1,4 +1,5 @@
 # Telnet server, which prints the following and closes the connection
+```
 
                           oooo$$$$$$$$$$$$oooo
                       oo$$$$$$$$$$$$$$$$$$$$$$$$o
@@ -26,4 +27,4 @@ oo $ $ "$      o$$$$$$$$$    $$$$$$$$$$$$$    $$$$$$$$$o       $$$o$$o$
                                     $$$$$$$$$$$$
                                      $$$$$$$$$$"
                                       "$$$""""
-                                      
+```
